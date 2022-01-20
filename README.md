@@ -27,7 +27,7 @@
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C%2B%2B-red)
-![Dart](https://img.shields.io/badge/-dart-orange)
+![Dart](http://img.shields.io/badge/-Dart-5B4638?style=flat-square&logo=dart&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -42,7 +42,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Socket-IO](https://img.shields.io/badge/-Socket--IO-green)
-![Flutter](https://img.shields.io/badge/-Flutter-orange)
+![Flutter](http://img.shields.io/badge/-Flutter-5B4638?style=flat-square&logo=flutter&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 
 ### Platforms 💻
