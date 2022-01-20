@@ -14,8 +14,8 @@
 
 - 🌱 Currently learning App-Development.
 - ⌨ Mastering Data Structures and Algorithms.
-- 🕸 Intrested in Web-Devlopment.
-- 👨‍🍳I like to solve challanges on CodeChef.
+- 🕸 I Like to make projects on Web-Devlopment.
+- 👨‍🍳I like to solve challanges on CodeChef when i am bored.
 
 - 📫 How to reach me **smitsekhadia99@gmail.com**
 
