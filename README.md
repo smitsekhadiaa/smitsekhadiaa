@@ -71,6 +71,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitsekhadiaa&theme=nightowl" alt="adam-pw" /></p>
 <br>
+<p align="left"> <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img
+      src="https://activity-graph.herokuapp.com/graph?username=smitsekhadiaa&theme=dracula" alt="adam-pw" /></a> </p>
 The snake's eating up my contributions🐍.
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
@@ -83,7 +85,6 @@ The snake's eating up my contributions🐍.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=nightowl" alt="" /></a> </p>
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 [smitsekhadiaa](https://github.com/smitsekhadiaa)
