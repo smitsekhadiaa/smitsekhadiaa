@@ -13,7 +13,7 @@
 
 ### About Me👨‍💻
 - ⌨ Mastering Data Structures and Algorithms.
-- 🤖 Currently Exploring Machine Learning
+- 🤖 Currently Exploring Deep Learning
 - 🕸 Looking Forward to Collaborate on Web-Devlopment Projects.
 - 👨‍🍳I like to solve challanges on CodeChef when i am bored.
 
