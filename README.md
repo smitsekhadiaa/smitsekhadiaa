@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ### About Me👨‍💻
-- ⌨ Mastering Data Structures and Algorithms.
+- ⌨ Mastering Data Structures and Algorithms. 
 - 🤖 Currently Exploring Deep Learning
 - 🕸 Looking Forward to Collaborate on Web-Devlopment Projects.
 - 👨‍🍳I like to solve challanges on CodeChef when i am bored.
