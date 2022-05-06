@@ -15,7 +15,7 @@
 - ⌨ Mastering Data Structures and Algorithms. 
 <!-- - 🤖 Currently Exploring Deep Learning -->
 - 🕸 Looking Forward to Collaborate on Web-Devlopment Projects.
-- 👨‍🍳I like to solve challanges on CodeChef when i am bored.
+- 💻I like to solve issues and contribute to open source repos.
 
 - 📫 How to reach me **smitsekhadia99@gmail.com**
 <br>
