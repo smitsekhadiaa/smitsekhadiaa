@@ -63,7 +63,7 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitsekhadiaa&show_icons=true&locale=en&theme=nightowl"
-    alt="adam-pw" /></p>
+    alt="adam-pw" /></p> 
 
 <br>
 
