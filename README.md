@@ -60,7 +60,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=smitsekhadiaa&show_icons=true&locale=en&layout=compact&theme=nightowl"
     alt="adam-pw" /></p>
 
-<br>
+<br> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitsekhadiaa&show_icons=true&locale=en&theme=nightowl"
     alt="adam-pw" /></p> 
