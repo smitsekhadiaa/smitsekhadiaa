@@ -57,17 +57,17 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="left"
+<p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=smitsekhadiaa&show_icons=true&locale=en&layout=compact&theme=nightowl"
     alt="adam-pw" /></p>
-
+<br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitsekhadiaa&show_icons=true&locale=en&theme=nightowl"
     alt="adam-pw" /></p> 
 
 <br>
-<br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitsekhadiaa&theme=nightowl" alt="adam-pw" /></p>
 
