@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smit Sekhadia</h1>
-<h3 align="center">Undergrad at VJTI, Mumbai 👨‍🎓.</h3> 
+<h3 align="center">Undergrad at VJTI, Mumbai 👨‍🎓.</h3>  
 
 <br>
  
