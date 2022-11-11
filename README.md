@@ -12,11 +12,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 ### About Me👨‍💻
-- ⌨ Mastering Data Structures and Algorithms. 
-- 🤖 Currently working on [Hypertrons](https://github.com/hypertrons/hypertrons-crx)
+- ⌨ Mastering [Data Structures and Algorithms](https://github.com/smitsekhadiaa/450-DSA-NOTES). 
 
 - 🕸 Looking Forward to Collaborate on Web-Devlopment Projects.
-
 
 - 📫 How to reach me **smitsekhadia99@gmail.com**
 <br>
