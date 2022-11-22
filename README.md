@@ -17,7 +17,7 @@
 - 🕸 Looking Forward to Collaborate on Web-Devlopment Projects.
 - 😭 Currently working on End Sem Exams :(
 
-- 📫 How to reach me **smitsekhadia99@gmail.com**
+- 📫 How to reach me **smitsekhadia99@gmail.com** , [Linkedin](https://www.linkedin.com/in/smit-sekhadia-7796a4177/)
 <br>
 
 ### Languages 🧠 
