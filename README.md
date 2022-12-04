@@ -75,8 +75,6 @@
 <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smitsekhadiaa&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
-<p align="left"> <a href="https://github.com/smitsekhadiaa"><img
-      src="https://activity-graph.herokuapp.com/graph?username=smitsekhadiaa&theme=dracula" alt="adam-pw" /></a> </p>
 
 <br>
 <h3>Trophies :-</h3>
