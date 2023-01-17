@@ -15,7 +15,7 @@
 - ⌨ Mastering [Data Structures and Algorithms](https://github.com/smitsekhadiaa/450-DSA-NOTES). 
 
 - 🕸 Looking Forward to Collaborate on Web-Devlopment Projects.
-- 😭 Currently working on End Sem Exams :(
+- 💲 Currently learning Blockchain
 
 - 📫 How to reach me **smitsekhadia99@gmail.com** , [Linkedin](https://www.linkedin.com/in/smit-sekhadia-7796a4177/)
 <br>
