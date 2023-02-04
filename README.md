@@ -61,6 +61,10 @@
     alt="adam-pw" /></p>
 <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=smitsekhadiaa&theme=tokyonight"
+    alt="adam-pw" /></p> 
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitsekhadiaa&show_icons=true&locale=en&theme=nightowl"
     alt="adam-pw" /></p> 
