@@ -14,7 +14,7 @@
 ### About Me👨‍💻
 - ⌨ Mastering [Data Structures and Algorithms](https://github.com/smitsekhadiaa/450-DSA-NOTES). 
 
-- 🕸 Looking Forward to Collaborate on Web-Devlopment Projects.
+- 🕸 Looking Forward to Collaborate on Blockchain and Web-Devlopment Projects.
 - 💲 Currently learning Web3
 
 - 📫 How to reach me **smitsekhadia99@gmail.com** , [Linkedin](https://www.linkedin.com/in/smit-sekhadia-7796a4177/)
