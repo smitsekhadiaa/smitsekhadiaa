@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smit Sekhadia</h1>
 <h3 align="center">Undergrad at VJTI, Mumbai 👨‍🎓.</h3>  
  
-<br>  
+<br>   
   
 <p align="left"> <h3>Profile Views :-</h3> <img align="left" src="https://komarev.com/ghpvc/?username=smitsekhadiaa&label=Profile%20views&color=0e75b6&style=flat"
     alt="smitsekhadiaa" /> 
