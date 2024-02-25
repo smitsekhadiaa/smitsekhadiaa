@@ -58,31 +58,6 @@
 <br/>
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=smitsekhadiaa&show_icons=true&locale=en&layout=compact&theme=nightowl"
-    alt="adam-pw" /></p>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=smitsekhadiaa&theme=tokyonight"
-    alt="adam-pw" /></p> 
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitsekhadiaa&show_icons=true&locale=en&theme=nightowl"
-    alt="adam-pw" /></p> 
-
-<br>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitsekhadiaa&theme=nightowl" alt="adam-pw" /></p>
-
-<br>
-
-<tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smitsekhadiaa&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/smitsekhadiaa"><img
